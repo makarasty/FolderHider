@@ -1,10 +1,10 @@
-
 from win32file import GetFileAttributes
 from keyboard import add_hotkey, wait
 from os import system, getlogin
 from ctypes import windll
 
 FolderPath = open('data.cfg', 'r').readlines()[1]
+system("title  ")
 
 L_BLUE = '\033[94m'
 GREEN = '\033[32m'
@@ -56,4 +56,5 @@ if __name__ == '__main__':
 		else:
 			f'{RED}НЕВІДОМО'
 	add_hotkey('esc + /', main)
+	add_hotkey('esc + .', main)
 	wait('space')
