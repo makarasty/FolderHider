@@ -16,7 +16,7 @@ The program is written in the python programming language that changes the attri
 
 
 ![изображение](https://user-images.githubusercontent.com/71918286/211155749-b11f05f7-d89e-4b86-be26-f6052b40e1fb.png)
-↓↑
+←→
 ![изображение](https://user-images.githubusercontent.com/71918286/211155756-df278c17-c635-4534-99a7-fb97d5705f6b.png)
 
 
